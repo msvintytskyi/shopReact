@@ -1,9 +1,11 @@
 import React from 'react'
 
-export default function Footer() {
+function Footer() {
   return (
     <footer>
         All rights reserved &copy;
     </footer>
   )
 }
+
+export default Footer
